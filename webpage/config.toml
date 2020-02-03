@@ -1,4 +1,4 @@
-baseurl = "https://ifm2019.hvl.no"
+baseurl = "https://ictac2020.github.io/"
 title = "ICTAC 2020"
 canonifyurls = true
 paginate = 10
@@ -9,7 +9,7 @@ copyright = "ICTAC 2020"
 relativeURLs = true #CESAR
 
 [author]
-    name = "iFM'19"
+    name = "ICTAC'20"
 
 [params]
   DateForm = "Mon, 2 Jan, 2006"
