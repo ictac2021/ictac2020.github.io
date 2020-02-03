@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICTAC 2020</title>
+    <link>https://ifm2019.hvl.no/</link>
+    <description>Recent content on ICTAC 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>ICTAC 2020</copyright>
+    <lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ifm2019.hvl.no/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://ifm2019.hvl.no/about/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ifm2019.hvl.no/about/</guid>
+      <description>Established in 2004 by the International Institute for Software Technology of the United Nations University (UNU-IIST), the ICTAC conference series aims at bringing together researchers and practitioners from academia, industry and government to present research and exchange ideas and experience addressing challenges in both theoretical aspects of computing and the exploitation of theory through methods and tools for system development. ICTAC also aims to promote research cooperation between developing and industrial countries.</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://ifm2019.hvl.no/home/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ifm2019.hvl.no/home/</guid>
+      <description>Welcome to ICTAC 2020 The 17th International Colloquium on Theoretical Aspects of Computing (ICTAC) will take place in Macau S.A.R., China on 30 Nov - 4 Dec, 2020.</description>
+    </item>
+    
+    <item>
+      <title>Call for Papers</title>
+      <link>https://ifm2019.hvl.no/cfp/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ifm2019.hvl.no/cfp/</guid>
+      <description> Coming soon! </description>
+    </item>
+    
+    <item>
+      <title>Committees</title>
+      <link>https://ifm2019.hvl.no/committees/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ifm2019.hvl.no/committees/</guid>
+      <description> To be confirmed </description>
+    </item>
+    
+    <item>
+      <title>Venue</title>
+      <link>https://ifm2019.hvl.no/venue/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ifm2019.hvl.no/venue/</guid>
+      <description>ICTAC 2020 will take place in the University of Macau. You can easily reach the campus from either the city centre by public transport.</description>
+    </item>
+    
+  </channel>
+</rss>
