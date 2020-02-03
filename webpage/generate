@@ -1,0 +1,7 @@
+#!/bin/bash
+
+rm web.zip
+rm -r public/
+hugo
+cd public
+zip -r ../web.zip *

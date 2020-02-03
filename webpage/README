@@ -1,0 +1,5 @@
+This is the instruction to generate the static webpage
+1. ./generate
+2. In the webinterface https://itportalen.hib.no/, delete ALL data
+3. upload the web.zip, select uncompress
+4. After uploading, run ./cleanup 

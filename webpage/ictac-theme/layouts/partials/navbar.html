@@ -1,0 +1,31 @@
+           <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-center">
+                    {{ range .Site.Menus.main }}
+		    <li class="dropdown">
+		        {{ if .HasChildren }}
+		        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ .Name }} <span class="caret"></span></a>
+		        <ul class="dropdown-menu">
+		            {{ range .Children }}
+			    <li><a href="{{ .URL }}">{{ .Name }}
+			  </a>
+			  </li>
+			    {{ end }}
+			</ul>
+			{{ else }}
+			<a href="{{ .URL }}">{{ .Name }}</a>
+			{{ end  }}
+		      </li>
+                    {{end}}
+		</ul>
+<!--
+		<ul class="nav navbar-nav navbar-right">
+		  <li><a href="https://hvl.no/" target="_blank"><img src="/img/hvl-logo-icon.png" height="20" width="20" border="0"></a></li>
+		</ul>
+-->		
+	      </div>
+	      <!-- /.navbar-collapse -->
+
+
+
+	    

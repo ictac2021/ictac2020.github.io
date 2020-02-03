@@ -1,0 +1,46 @@
+{{ partial "header.html" .}}
+
+    <!-- Page Header -->
+    <header class="intro-header" style="background-image: url('{{ .Site.BaseURL }}/img/stpauls.jpg')">
+     <div class="container">
+       <div class="row">
+         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+           <div class="site-heading">
+             <h1>{{ .Site.Title }}</h1>
+             <hr class="small">
+             <span class="subheading">{{ .Site.Params.Description}}<br/>{{ .Site.Params.Date }}, {{.Site.Params.Venue }}</span>
+	   </div>
+         </div>
+       </div>
+     </div>
+    </header>
+
+    <!-- Main Content -->
+     <div class="container">
+      <div class="row">
+         <div class="col-lg-8 col-lg-offset-0 col-md-9 col-md-offset-0"> <!-- have to change ./about/summary.html correspondingly --> 
+           {{ range first 1 (where .Data.Pages "Type" "home") }}
+              {{ .Render "summary"}}
+           {{ end }}
+	   {{ range first 1 (where .Data.Pages "Type" "about") }}
+              {{ .Render "summary"}}
+	   {{ end }}
+	   <!--
+	   {{ range first 1 (where .Data.Pages "Type" "sponsors") }}
+              {{ .Render "summary"}}
+	   {{ end }}
+	   -->
+	</div>
+	<div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-0 col-sd-8 col-sd-offset-2 col-xs-10 col-xs-offset-1">
+	  <!-- 
+	  <p class="twitter-separator">
+	  &nbsp;&nbsp;<a href="https://twitter.com/iFMconf?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @iFMconf</a>
+	    <a class="twitter-timeline" data-tweet-limit="4" href="https://twitter.com/iFMconf?ref_src=twsrc%5Etfw">Tweets by iFMconf</a>
+	    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	  </p>
+	  -->
+	</div>
+      </div>
+    </div>
+    
+{{ partial "footer.html" .}}

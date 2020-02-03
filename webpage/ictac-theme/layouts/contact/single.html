@@ -1,0 +1,29 @@
+{{ partial "header.html" . }}
+
+    <!-- Page Header -->
+    <header class="intro-header" style="background-image: url('{{ .Site.BaseURL }}/img/bergen.jpg')">
+     <div class="container">
+       <div class="row">
+         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+           <div class="page-heading">
+             <h1>{{ .Title }}</h1>
+             <hr class="small">
+	     <span class="subheading"><br/><br/></span>  <!--2 linefeeds, make the page has the same height as the front page-->
+           </div>
+         </div>
+       </div>
+     </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+
+
+
+{{ partial "footer.html" . }}
