@@ -6,7 +6,7 @@ theme = "ictac-theme"
 themesDir = "."
 languageCode = "en-us"
 copyright = "ICTAC 2020"
-relativeURLs = true #CESAR
+relativeURLs = true 
 
 [author]
     name = "ICTAC'20"
