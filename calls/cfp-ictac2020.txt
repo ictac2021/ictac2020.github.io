@@ -1,5 +1,6 @@
 Call for papers: 17th International Colloquium on Theoretical Aspects
-of Computing (ICTAC 2020).
+of Computing (ICTAC 2020). 
+https://ictac2020.github.io/ 
 
 ----------------------------------------------------------------------
 
@@ -15,7 +16,7 @@ presentations or a full electronic implementation of the conference.
 
 ----------------------------------------------------------------------
 
-ABOUT ICTAC 2020
+= ABOUT ICTAC 2020 =
 
 We are pleased to invite you to submit papers for the 17th
 International Colloquium on Theoretical Aspects of Computing (ICTAC
@@ -30,7 +31,7 @@ promote research cooperation between developing and industrial
 countries. The proceedings will be published as a volume of Springer's
 LNCS series.
 
-IMPORTANT DATES
+= IMPORTANT DATES =
 
 Abstract submission: Monday, 22 June 2020 (AoE)
 Paper submission: Friday, 26 June 2020 (AoE)
@@ -39,7 +40,7 @@ Camera-ready: Wednesday, 30 September 2020 (AoE)
 Main Conference: 30 November - 4 December 2020
 
 
-OBJECTIVES and SCOPE
+= OBJECTIVES and SCOPE =
 
 Established in 2004 by the International Institute for Software
 Technology of the United Nations University (UNU-IIST), the ICTAC
@@ -50,7 +51,6 @@ both theoretical aspects of computing and the exploitation of theory
 through methods and tools for system development. ICTAC also aims to
 promote research cooperation between developing and industrial
 countries.
-
 
 The topics of the conference include, but are not limited to:
 
@@ -72,7 +72,7 @@ The topics of the conference include, but are not limited to:
 - Interactive theorem proving
 - Verified software, formalized programming theory
 
-SUBMISSION OF CONTRIBUTIONS
+= SUBMISSION OF CONTRIBUTIONS =
 
 We solicit the following types of papers:
 - Regular papers, with original research contributions;
@@ -101,3 +101,17 @@ conference by the early registration date, and present the paper.
 
 The ICTAC committee will evaluate and select the best paper award
 winner.
+
+Authors should consult Springer's authors' guidelines
+(ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf)
+and use their proceedings templates, either for LaTeX
+(ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip) or for
+Word (ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip),
+for the preparation of their papers. Springer encourages authors to
+include their ORCIDs (https://goo.gl/hbsa4D) in their papers. In
+addition, the corresponding author of each paper, acting on behalf of
+all of the authors of that paper, must complete and sign a
+Consent-to-Publish form. The corresponding author signing the
+copyright form should match the corresponding author marked on the
+paper. Once the files have been sent to Springer, changes relating to
+the authorship of the papers cannot be made.
