@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ICTAC 2020</copyright>
-    <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ictac2020.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +42,15 @@ The Program Chairs and the Steering Committee of ICTAC 2020 are closely followin
     </item>
     
     <item>
+      <title>Contact</title>
+      <link>https://ictac2020.github.io/contact/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ictac2020.github.io/contact/</guid>
+      <description>General inquiries about ICTAC 2020 can be addressed to: ictac2020@easychair.org.</description>
+    </item>
+    
+    <item>
       <title>Call for Papers</title>
       <link>https://ictac2020.github.io/cfp/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
@@ -70,15 +79,6 @@ Ignacio Marcovecchio (UNU-CS, MO)
 Joseph Chi Man Pun (University of Macau, MO)
 Publicity Chairs
 Zhiming Liu (Southwest University, CN)</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://ictac2020.github.io/contact/</link>
-      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ictac2020.github.io/contact/</guid>
-      <description>General inquiries about ICTAC 2020 can be addressed to: ictac2020@easychair.org.</description>
     </item>
     
     <item>

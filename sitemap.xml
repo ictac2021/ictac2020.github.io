@@ -18,8 +18,13 @@
   </url>
   
   <url>
+    <loc>https://ictac2020.github.io/contact/</loc>
+    <lastmod>2020-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ictac2020.github.io/</loc>
-    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -31,11 +36,6 @@
   <url>
     <loc>https://ictac2020.github.io/committees/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ictac2020.github.io/contact/</loc>
-    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
