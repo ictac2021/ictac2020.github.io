@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ICTAC 2020</copyright>
-    <lastBuildDate>Tue, 24 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ictac2020.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://ictac2020.github.io/about/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ictac2020.github.io/about/</guid>
+      <description>Established in 2004 by the International Institute for Software Technology of the United Nations University (UNU-IIST, currently known as the United Nations University Institute in Macau), the ICTAC conference series aims at bringing together researchers and practitioners from academia, industry and government to present research and exchange ideas and experience addressing challenges in both theoretical aspects of computing and the exploitation of theory through methods and tools for system development. ICTAC also aims to promote research cooperation between developing and industrial countries.</description>
+    </item>
     
     <item>
       <title>Sponsor</title>
@@ -23,22 +32,13 @@ Sponsored by</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://ictac2020.github.io/about/</link>
-      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ictac2020.github.io/about/</guid>
-      <description>Established in 2004 by the International Institute for Software Technology of the United Nations University (UNU-IIST, currently known as UNU-CS), the ICTAC conference series aims at bringing together researchers and practitioners from academia, industry and government to present research and exchange ideas and experience addressing challenges in both theoretical aspects of computing and the exploitation of theory through methods and tools for system development. ICTAC also aims to promote research cooperation between developing and industrial countries.</description>
-    </item>
-    
-    <item>
       <title>Home</title>
       <link>https://ictac2020.github.io/home/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ictac2020.github.io/home/</guid>
       <description>Concerning COVID-19
-The Program Chairs and the Steering Committee of ICTAC 2020 are closely following the situation regarding COVID-19 and will take appropriate measures if and when needed, following the recommendations of relevant national and international bodies, such as the World Health Organization. These measure will be adapted to the actual situation and may e.g., include the possibility of remote paper presentations or a full electronic implementation of the conference.</description>
+The Program Chairs and the Steering Committee of ICTAC 2020 are closely following the situation regarding COVID-19 and will take appropriate measures if and when needed, following the recommendations of relevant national and international bodies, such as the World Health Organization. These measures will be adapted to the actual situation and may e.g., include the possibility of remote paper presentations or a full electronic implementation of the conference.</description>
     </item>
     
     <item>
@@ -57,7 +57,7 @@ The Program Chairs and the Steering Committee of ICTAC 2020 are closely followin
       
       <guid>https://ictac2020.github.io/cfp/</guid>
       <description>Concerning COVID-19
-The Program Chairs and the Steering Committee of ICTAC 2020 are closely following the situation regarding COVID-19 and will take appropriate measures if and when needed, following the recommendations of relevant national and international bodies, such as the World Health Organization. These measure will be adapted to the actual situation and may e.g., include the possibility of remote paper presentations or a full electronic implementation of the conference.</description>
+The Program Chairs and the Steering Committee of ICTAC 2020 are closely following the situation regarding COVID-19 and will take appropriate measures if and when needed, following the recommendations of relevant national and international bodies, such as the World Health Organization. These measures will be adapted to the actual situation and may e.g., include the possibility of remote paper presentations or a full electronic implementation of the conference.</description>
     </item>
     
     <item>
