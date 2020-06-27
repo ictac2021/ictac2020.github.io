@@ -114,7 +114,7 @@ winner.
 
 Planned special issue:
 Selected papers will be considered for a journal special issue
-to be confirmed).
+(to be confirmed).
 
 Authors should consult Springer's authors' guidelines
 (ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf)
