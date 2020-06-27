@@ -1,7 +1,12 @@
-Call for papers: 17th International Colloquium on Theoretical Aspects
-of Computing (ICTAC 2020). 
+Call for papers
+17th International Colloquium on Theoretical 
+Aspects of Computing (ICTAC 2020). 
 https://ictac2020.github.io/ 
 
+----------------------------------------------------------------------
+DEADLINE EXTENSION:
+* Abstracts:       10. July 2020
+* Full submission: 17. July 2020
 ----------------------------------------------------------------------
 
 Concerning COVID-19
@@ -10,13 +15,17 @@ The Program Chairs and the Steering Committee of ICTAC 2020 are
 closely following the situation regarding COVID-19 and will take
 appropriate measures if and when needed, following the recommendations
 of relevant national and international bodies, such as the World
-Health Organization. These measure will be adapted to the actual
+Health Organization. These measures will be adapted to the actual
 situation and may e.g., include the possibility of remote paper
 presentations or a full electronic implementation of the conference.
 
+REMOTE PARTICIPATION: as of June, we have decided that virtual
+participation will be possible even if the conference will (also) be
+held physically.
+
 ----------------------------------------------------------------------
 
-= ABOUT ICTAC 2020 =
+****** ABOUT ICTAC 2020 ******
 
 We are pleased to invite you to submit papers for the 17th
 International Colloquium on Theoretical Aspects of Computing (ICTAC
@@ -31,16 +40,17 @@ promote research cooperation between developing and industrial
 countries. The proceedings will be published as a volume of Springer's
 LNCS series.
 
-= IMPORTANT DATES =
 
-Abstract submission: Monday, 22 June 2020 (AoE)
-Paper submission: Friday, 26 June 2020 (AoE)
-Notification: Monday, 14 September 2020 (AoE)
+****** IMPORTANT DATES (Updated) ******
+
+Abstract submission: Friday, 10 July 2020 (AoE)
+Paper submission: Friday, 27 July 2020 (AoE)
+Notification: Friday, 18 September 2020 (AoE)
 Camera-ready: Wednesday, 30 September 2020 (AoE)
 Main Conference: 30 November - 4 December 2020
 
 
-= OBJECTIVES and SCOPE =
+****** OBJECTIVES and SCOPE ******
 
 Established in 2004 by the International Institute for Software
 Technology of the United Nations University (UNU-IIST), the ICTAC
@@ -72,7 +82,7 @@ The topics of the conference include, but are not limited to:
 - Interactive theorem proving
 - Verified software, formalized programming theory
 
-= SUBMISSION OF CONTRIBUTIONS =
+****** SUBMISSION OF CONTRIBUTIONS ******
 
 We solicit the following types of papers:
 - Regular papers, with original research contributions;
@@ -102,6 +112,10 @@ conference by the early registration date, and present the paper.
 The ICTAC committee will evaluate and select the best paper award
 winner.
 
+Planned special issue:
+Selected papers will be considered for a journal special issue
+to be confirmed).
+
 Authors should consult Springer's authors' guidelines
 (ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf)
 and use their proceedings templates, either for LaTeX
@@ -115,3 +129,57 @@ Consent-to-Publish form. The corresponding author signing the
 copyright form should match the corresponding author marked on the
 paper. Once the files have been sent to Springer, changes relating to
 the authorship of the papers cannot be made.
+
+****** Organization ******
+
+*** Program Committee Chairs ***
+Violet Ka I Pun (Western Norway University of Applied Sciences, NO)
+Adenilso da Silva Simão (University of São Paulo, BR)
+Volker Stolz (Western Norway University of Applied Sciences, NO)
+
+*** Workshop/Tutorial Chairs ***
+Antonio Cerone (Nazarbayev University, KZ)
+Einar Broch Johnsen (University of Oslo, NO)
+
+*** Local Organisation Chairs ***
+Xiaoshan Li (University of Macau, MO)
+Ignacio Marcovecchio (UNU-CS, MO)
+Joseph Chi Man Pun (University of Macau, MO)
+
+*** Publicity Chairs ***
+Zhiming Liu (Southwest University, CN)
+Radu Muschevici (University of Nottingham, MY)
+
+*** Program Committee ***
+Erika Ábrahám (RWTH Aachen University, DE)
+Kamel Barkaoui (CNAM, FR)
+Frédéric Blanqui (INRIA, FR)
+Simon Bliudze (INRIA, FR)
+Benedikt Bollig (LSV, ENS Cachan, CNRS, FR)
+Eduardo Bonelli (Stevens Institute of Technology, US)
+Ana Cavalcanti (University of York, UK)
+Antonio Cerone (Nazarbayev University, KZ)
+Yu-Fang Chen (National Taiwan University, TW)
+Uli Fahrenberg (LIX, FR)
+Bernd Fischer (Stellenbosch University, ZA)
+Paola Giannini (Università del Piemonte Orientale, Alessandria, IT)
+Edward Hermann Haeusler (Pontifícia Universidade Católica do Rio de Janeiro, BR)
+Thomas Troels Hildebrandt (University of Copenhagen, DK)
+Ross Horne (University of Luxembourg, LU)
+Reiner Hähnle (Technische Universität Darmstadt, DE)
+Eun-Young Kang (University of Southern Denmark, DK)
+Jan Křetínský (Technische Universität München, DE)
+Lars Michael Kristensen (Western Norway University of Applied Sciences, NO)
+Martin Leucker (University of Lübeck, DE)
+Michael Lienhardt (ONERA, FR; University of Turin, IT)
+Dominique Méry (LORIA, FR)
+Mohammad Reza Mousavi (University of Leicester, UK)
+Maciej Piróg (Wroclaw University, PL)
+Sanjiva Prasad (IIT Delhi, IN)
+Riadh Robbana (INSAT, TN)
+Kristin Yvonne Rozier (Iowa State University, US)
+Augusto Sampaio (Universidade Federal de Pernambuco, BR)
+César Sánchez (IMDEA Software Institute, ES)
+Marjan Sirjani (Mälardalen University, SE; Reykjavik University, IS)
+Georg Struth (University of Sheffield, UK)
+Jing Sun (University of Auckland, NZ)
