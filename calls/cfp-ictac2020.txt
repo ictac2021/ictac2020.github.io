@@ -46,8 +46,9 @@ LNCS series.
 Abstract submission: Friday, 10 July 2020 (AoE)
 Paper submission: Friday, 27 July 2020 (AoE)
 Notification: Friday, 18 September 2020 (AoE)
-Camera-ready: Wednesday, 30 September 2020 (AoE)
-Main Conference: 30 November - 4 December 2020
+Camera-ready: Friday, 2 October 2020 (AoE)
+Satellite events: 30 November - 1 December 2020
+Main Conference: 2-4 December 2020
 
 
 ****** OBJECTIVES and SCOPE ******
@@ -176,10 +177,13 @@ Dominique Méry (LORIA, FR)
 Mohammad Reza Mousavi (University of Leicester, UK)
 Maciej Piróg (Wroclaw University, PL)
 Sanjiva Prasad (IIT Delhi, IN)
+Violet Ka I Pun (Western Norway University of Applied Sciences, University of Oslo, NO)
 Riadh Robbana (INSAT, TN)
 Kristin Yvonne Rozier (Iowa State University, US)
 Augusto Sampaio (Universidade Federal de Pernambuco, BR)
 César Sánchez (IMDEA Software Institute, ES)
+Adenilso da Silva Simão (University of São Paulo, BR)
 Marjan Sirjani (Mälardalen University, SE; Reykjavik University, IS)
+Volker Stolz (Western Norway University of Applied Sciences, NO)
 Georg Struth (University of Sheffield, UK)
 Jing Sun (University of Auckland, NZ)
