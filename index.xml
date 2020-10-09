@@ -46,18 +46,27 @@ Sponsored by</description>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ictac2020.github.io/home/</guid>
-      <description>Concerning COVID-19 The Program Chairs and the Steering Committee of ICTAC 2020 are closely following the situation regarding COVID-19 and will take appropriate measures if and when needed, following the recommendations of relevant national and international bodies, such as the World Health Organization. These measures will be adapted to the actual situation and may e.g., include the possibility of remote paper presentations or a full electronic implementation of the conference.</description>
+      <description>Virtual Conference.  Due to the COVID-pandemic, the organisation committee decided that ICTAC 2020 will be held virtually only. Accepted papers will be published as a LNCS proceedings as planned, have to be presented at the virtual conference.
+Welcome to ICTAC 2020 The 17th International Colloquium on Theoretical Aspects of Computing (ICTAC) will take place in Macau S.A.R., China on 30 Nov - 4 Dec, 2020.
+News  The list of accepted papers is available here.</description>
     </item>
     
     <item>
       <title>Accepted Papers</title>
       <link>https://ictac2020.github.io/accepted/</link>
-      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ictac2020.github.io/accepted/</guid>
-      <description> Full Papers | Short Papers | Journal-First
-Full Papers  Paper 1
-Authors   Short/Tool Papers  Paper1 Authors  </description>
+      <description>Proof-theoretic Conservative Extension of HOL with Ad-hoc Overloading.
+Arve Gengelbach and Tjark Weber
+ A Myhill-Nerode Theorem for Register Automata and Symbolic Trace Languages.
+Frits Vaandrager and Abhisek Midya
+ Qsimulation V2.0: an Optimized Quantum Simulator.
+Hua Wu, Yuxin Deng, Ming Xu and Wenjie Du
+ CiMPG+F: A Proof Generator &amp;amp; Fixer-upper for CafeOBJ Specifications.
+Adrián Riesco and Kazuhiro Ogata
+ Statistical Analysis of Non-Deterministic Fork-Join Processes.
+Antoine Genitrini, Martin Pépin and Frédéric Peschanski</description>
     </item>
     
     <item>
