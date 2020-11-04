@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ICTAC 2020</copyright>
-    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ictac2020.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RV Lectures @ ICTAC</title>
+      <link>https://ictac2020.github.io/rvlec/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ictac2020.github.io/rvlec/</guid>
+      <description>RV Lectures @ ICTAC, Nov. 30 / Dec. 1 Supported by the Norwegian Research Council FORSTERK-project COEMS Training Network.
+Volker Stolz, Jose Ignacio Requeno, Martin Leucker Runtime Verification of Streams with TeSSLa Sandro Stucki, Gerardo Schneider, Cesar Sanchez Gray-box Monitorability of Hyperproperties &amp;ndash; the Case of Data Minimization Ezio Bartocci et al. Monitoring Cyber-Physical Systems Dejan Ničković Runtime verification for rigorous engineering of cyber-physical systems Giles Reger Monitoring with Data Practicalities  Venue: Online (Zoom) Time: tbd.</description>
+    </item>
     
     <item>
       <title>Keynote Speakers</title>
@@ -37,7 +47,7 @@
       
       <guid>https://ictac2020.github.io/sponsor/</guid>
       <description>Organised by &amp;emsp; &amp;emsp; &amp;emsp; &amp;emsp;
-Sponsored by</description>
+Sponsored by  &amp;emsp; &amp;emsp; &amp;emsp; &amp;emsp;</description>
     </item>
     
     <item>
@@ -46,13 +56,13 @@ Sponsored by</description>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ictac2020.github.io/home/</guid>
-      <description>Virtual Conference.  Due to the COVID-pandemic, the organisation committee decided that ICTAC 2020 will be held virtually only. Accepted papers will be published as a LNCS proceedings as planned, have to be presented at the virtual conference.
+      <description>Virtual Conference.  Due to the COVID-pandemic, the organisation committee decided that ICTAC 2020 will be held virtually only. Accepted papers will be published as a LNCS proceedings as planned, and have to be presented at the virtual conference.
 Welcome to ICTAC 2020 The 17th International Colloquium on Theoretical Aspects of Computing (ICTAC) will take place in Macau S.A.R., China on 30 Nov - 4 Dec, 2020.
-News  The list of accepted papers is available here.</description>
+News  Lectures on RV will be given on 30 Nov - 1 Dec.</description>
     </item>
     
     <item>
-      <title>ICTAC&#39;20: Accepted Papers</title>
+      <title>Accepted Papers</title>
       <link>https://ictac2020.github.io/accepted/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -66,6 +76,19 @@ Hua Wu, Yuxin Deng, Ming Xu and Wenjie Du
  CiMPG+F: A Proof Generator &amp;amp; Fixer-upper for CafeOBJ Specifications.
 Adrián Riesco and Kazuhiro Ogata
  Statistical Analysis of Non-Deterministic Fork-Join Processes.</description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>https://ictac2020.github.io/registration/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ictac2020.github.io/registration/</guid>
+      <description>Please register with the online registration form (switch to English in the top-right corner).
+Registration for ICTAC 2020 is free through support from Springer and the Norwegian Research Council.
+At least one author per accepted paper must register to the conference by Monday, 18th November.
+The conference and the RV lectures will be implemented using Zoom.
+2 x 1&amp;frasl;2 day RV Lectures on 30th Nov &amp;ndash; 1st Dec is for free, please indicate in the registration page about your interest.</description>
     </item>
     
     <item>
@@ -83,7 +106,7 @@ Adrián Riesco and Kazuhiro Ogata
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ictac2020.github.io/cfp/</guid>
-      <description>Virtual Conference.  Due to the COVID-pandemic, the organisation committee decided that ICTAC 2020 will be held virtually only. Accepted papers will be published as a LNCS proceedings as planned, have to be presented at the virtual conference.
+      <description>Virtual Conference.  Due to the COVID-pandemic, the organisation committee decided that ICTAC 2020 will be held virtually only. Accepted papers will be published as a LNCS proceedings as planned, and have to be presented at the virtual conference.
 We are pleased to invite you to submit papers for the 17th International Colloquium on Theoretical Aspects of Computing (ICTAC 2020), which will take place in Macao S.A.R., China on 30 November- 4 December, 2020.</description>
     </item>
     

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ictac2020.github.io/rvlec/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ictac2020.github.io/keynotes/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -28,7 +33,13 @@
   
   <url>
     <loc>https://ictac2020.github.io/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ictac2020.github.io/registration/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,10 +69,12 @@
   
   <url>
     <loc>https://ictac2020.github.io/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ictac2020.github.io/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
