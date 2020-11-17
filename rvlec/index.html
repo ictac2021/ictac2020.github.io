@@ -156,6 +156,16 @@
 
 <h3 id="q-gray-box-monitorability-of-hyperproperties-the-case-of-data-minimization-q"><q>Gray-box Monitorability of Hyperproperties &ndash; the Case of Data Minimization</q></h3>
 
+<p>Many important system properties, particularly in security and privacy, cannot be verified statically. Therefore, runtime verification is an appealing alternative. Logics for hyperproperties, such as HyperLTL, support a rich set of such properties. However, black-box monitoring of HyperLTL is not possible in general.</p>
+
+<p>In this tutorial, I will present an alternative approach called gray-box monitoring which combines runtime verification and static analysis to cover a wider class of hyperproperties.</p>
+
+<p>The tutorial will start with a recap of some basic results about black-box monitoring LTL and Hyper-LTL. I will then sketch a proof that black-box monitoring HyperLTL formulas with quantifier alternations is unfeasible in general, and present a gray-box approach to circumvent this limitation. Gray-box monitoring involves the use of static information about a system at run-time, which changes the monitoring problem and introduces new challenges. Thus, I will present a refined notion of monitorability, both for trace properties and hyperproperties, that takes into account static knowledge and computability of the monitor.</p>
+
+<p>In the second part of the tutorial, I will present a case study where this approach is applied to monitor a privacy hyperproperty called distributed data minimality. The case-study is supported by a proof-of-concept implementation that uses the KeY symbolic execution engine and the Z3 SMT solver to perform static analysis at runtime.</p>
+
+<p>This tutorial is based on joint work with César Sánchez, Gerardo Schneider and Borzoo Bonakdarpour.</p>
+
 <h3 id="a-id-eb-ezio-bartocci-et-al-tu-wien-a"><a id="eb"><strong>Ezio Bartocci et al.</strong> (TU Wien)</a></h3>
 
 <h3 id="q-monitoring-cyber-physical-systems-q"><q>Monitoring Cyber-Physical Systems</q></h3>
@@ -164,7 +174,11 @@
 
 <h3 id="q-runtime-verification-for-rigorous-engineering-of-cyber-physical-systems-q"><q>Runtime verification for rigorous engineering of cyber-physical systems</q></h3>
 
-<h3 id="a-id-gr-giles-reger-a"><a id="gr"><strong>Giles Reger</strong></a></h3>
+<p>Cyber-physical systems (CPS) combine computational and physical components that interact with their sophisticated and unpredictable environments via sensors and actuators. Exhaustively evaluating correctness and robustness of CPS is often intractable. Runtime verification (RV) is a more pragmatic method that combines formal specifications with the analysis of individual system behaviors. RV for CPS has been a vivid area of research in the recent past and there is a plethora of powerful methods and tools for monitoring CPS. But can we use these monitors to go beyond RV?</p>
+
+<p>In this lecture, I will present a number of methods that support rigorous engineering of CPS and that use RV as their core technology. I will sketch procedures for pattern matching, predictive monitoring, search-based testing, parameter synthesis, specification mining, and trace and system diagnostics. I will use these procedures to demonstrate the extraordinary versatility of the RV technology and its application during the design and operation of CPS.</p>
+
+<h3 id="a-id-gr-giles-reger-the-university-of-manchester-a"><a id="gr"><strong>Giles Reger</strong> (The University of Manchester)</a></h3>
 
 <h3 id="q-monitoring-with-data-q"><q>Monitoring with Data</q></h3>
 
