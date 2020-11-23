@@ -19,7 +19,9 @@
       
       <guid>https://ictac2020.github.io/rvlec/</guid>
       <description>RV Lectures @ ICTAC, Monday Nov. 30 / Tuesday Dec. 1 (afternoons, Central European Time) Supported by the Norwegian Research Council FORSTERK-project COEMS Training Network.
-Volker Stolz, José Ignacio Requeno, Martin Leucker (HVL &amp;amp; U. Lübeck) Runtime Verification of Streams with TeSSLa We present the TeSSLa Temporal Stream-based Specification Language (https://www.tessla.io). It can analyze the behavior of cyber-physical systems, where timing is a critical issue. TeSSLa is ideally suited for stream runtime verification (SRV) and comes with tools supporting this goal.</description>
+Program Monday, 30 November 2020  1400-1415 Welcome 14:15-15:00 Qualitative and Quantitative Specification-based Monitoring of Cyber-Physical Systems
+Ezio Bartocci (Technische Universität Wien) 15:00-15:15 Coffee break 15:15-16:00 Monitoring with Data
+Giles Reger (The University of Manchester) 16:00-16:15 Coffee break 16:15-17:00 Runtime Verification of Streams with TeSSLa</description>
     </item>
     
     <item>
