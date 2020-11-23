@@ -18,8 +18,8 @@
       <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ictac2020.github.io/rvlec/</guid>
-      <description>RV Lectures @ ICTAC, Nov. 30 / Dec. 1 Supported by the Norwegian Research Council FORSTERK-project COEMS Training Network.
-Volker Stolz, Jose Ignacio Requeno, Martin Leucker Runtime Verification of Streams with TeSSLa Sandro Stucki, Gerardo Schneider, Cesar Sanchez Gray-box Monitorability of Hyperproperties &amp;ndash; the Case of Data Minimization Ezio Bartocci et al. Monitoring Cyber-Physical Systems Dejan Ničković Runtime verification for rigorous engineering of cyber-physical systems Giles Reger Monitoring with Data Practicalities  Venue: Online (Zoom) Time: tbd.</description>
+      <description>RV Lectures @ ICTAC, Monday Nov. 30 / Tuesday Dec. 1 (afternoons, Central European Time) Supported by the Norwegian Research Council FORSTERK-project COEMS Training Network.
+Volker Stolz, José Ignacio Requeno, Martin Leucker (HVL &amp;amp; U. Lübeck) Runtime Verification of Streams with TeSSLa We present the TeSSLa Temporal Stream-based Specification Language (https://www.tessla.io). It can analyze the behavior of cyber-physical systems, where timing is a critical issue. TeSSLa is ideally suited for stream runtime verification (SRV) and comes with tools supporting this goal.</description>
     </item>
     
     <item>
@@ -58,7 +58,7 @@ Sponsored by  &amp;emsp; &amp;emsp; &amp;emsp; &amp;emsp;</description>
       <guid>https://ictac2020.github.io/home/</guid>
       <description>Virtual Conference.  Due to the COVID-pandemic, the organisation committee decided that ICTAC 2020 will be held virtually only. Accepted papers will be published as a LNCS proceedings as planned, and have to be presented at the virtual conference.
 Welcome to ICTAC 2020 The 17th International Colloquium on Theoretical Aspects of Computing (ICTAC) will take place in Macau S.A.R., China on 30 Nov - 4 Dec, 2020.
-News  Lectures on RV will be given on 30 Nov - 1 Dec.</description>
+News  Online conference proceedings are available for a month.</description>
     </item>
     
     <item>
